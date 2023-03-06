@@ -12,7 +12,6 @@ public class Bottle {
         bottle[0].transferirAgua(3,bottle[2]);
         System.out.println(bottle[0].getCantidadAgua());
         System.out.println(bottle[2].getCantidadAgua());
-bottle[0].getCantidadAgua();
 
 
 
